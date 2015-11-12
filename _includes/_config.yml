@@ -1,0 +1,31 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               Hamed MP
+tagline:             Machine Learnin, Data Science, and a cup of Coffee 
+url:                 http://hamedmp.github.io
+paginate:            1
+baseurl:             ""
+
+gems:				 [jekyll-paginate, jekyll-gist]
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Hamed
+  url:               https://twitter.com/hamedpc2002
+  email:             
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/
