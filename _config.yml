@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: \#justhamp
+title: hamp
 email: hamedmp2012 [at] gmail
 description: >
   AI, Data Science and some Futiristic stuff
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hamedmp.github.io" # the base hostname & protocol for your site
-paginate:	10 # The number of posts to show per page on your homepage
+paginate: 10 # The number of posts to show per page on your homepage
 
 name: 'Hamed MP'
 bio: >
