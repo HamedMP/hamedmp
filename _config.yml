@@ -1,26 +1,36 @@
-# Dependencies
-#markdown:         redcarpet
-#highlighter:      pygments
+# Welcome to Amplified for Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Permalinks
-permalink:        pretty
-#relative_permalinks: true
+# Site settings
+title: \#justhamp
+email: hamedmp2012 [at] gmail
+description: >
+  AI, Data Science and some Futiristic stuff
+logo: "/assets/images/logo.jpg"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://hamedmp.github.io" # the base hostname & protocol for your site
+paginate:	10 # The number of posts to show per page on your homepage
 
-# Setup
-title:            Hamed MP
-tagline:          'Machine Learnin, Data Science, and a cup of Coffee..'
-description:      'Machine Learnin, Data Science, and a cup of Coffee..'
-url:              http://hamedmp.github.io
-baseurl:          /
-gems:				 			[jekyll-paginate, jekyll-gist]
-author:
-  name:           'Hamed MP'
-  url:            https://twitter.com/hamedpc2002
+name: 'Hamed MP'
+bio: >
+  Deep learning, Big data and a cup of coffee.
+author_image: "/assets/images/author.jpg"
+twitter_username: thehamedmp
+github_username:  hamedmp
 
-paginate:         5
+# Google Analytics
+analytics_id: "UA-70042280-1"
 
-# Custom vars
-version:          2.1.0
+# Build settings
+markdown: kramdown
 
-github:
-  repo:           
+kramdown:
+  parse_block_html: true
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
