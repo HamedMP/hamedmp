@@ -1,0 +1,15 @@
+
+{
+  "@context": "http://schema.org",
+  "@type": "person",
+  "email": "mailto:hamed.mohammadpour@etu.unice.fr",
+  "jobTitle": "Professor",
+  "name": "Hamed Mohammadpour",
+  "url": "http://www.hamedmp.github.io",
+  "image": {
+    "@type": "ImageObject",
+    "url": "../assets/images/author.jpg",
+    "height": "60",
+    "width": "60"
+  }
+}
