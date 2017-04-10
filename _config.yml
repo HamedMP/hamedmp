@@ -26,7 +26,7 @@ github_username:  hamedmp
 analytics_id: "UA-70042280-1"
 
 # tags url
-permalink: /:tags/:title/
+# permalink: /:tags/:title/
 
 # Build settings
 markdown: kramdown
