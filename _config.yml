@@ -37,3 +37,4 @@ kramdown:
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-time-to-read
