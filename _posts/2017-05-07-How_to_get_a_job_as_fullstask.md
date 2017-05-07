@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to find Engineering positions in Europe/US for people from MENA + interesting positions
-image:/assets/images/20170507/shopify.png
+image: /assets/images/20170507/shopify.png
 description: Four steps to take for getting the top jobs as a developer
 tags: [Tips]
 ---
