@@ -26,7 +26,7 @@ Now I'll dig a bit each of them and what should you do for each one:
 - **CV** <br>
   I don't want to explain a lot here. Just keep it simple and minimal. There are tons of materials and templates out there. Just keep in mind to include your projects you have worked on, one line description for each one and how you helped that project, your skillset, and link to your blog, GitHub and StackOverflow.
 - **Github account** <br>
-  <amp-img width="600" height="100" layout="responsive" src="/assets/images/20170507/imageflow.png"></amp-img>
+  <amp-img width="600" height="80" layout="responsive" src="/assets/images/20170507/imageflow.png"></amp-img>
   This is the most important part in your portfolio and building a great GitHub account will take time, so be patient. <br>
   - Include any open source project you have or worked on. Translation: If you don't have any, start one :)
   - Build a library around the area you are working on. A library that you wish it was there or has better features than others. For example, I created [Imageflow](https://github.com/HamedMP/ImageFlow) a simple wrapper for reading images for [Tensorflow](https://tensorflow.org). Although currently in hibernate mode but I did it more than 1 year ago because reading images in Tensoflow really sucks and you can validate the problem by a number of stars in the GitHub repo.
@@ -35,6 +35,7 @@ Now I'll dig a bit each of them and what should you do for each one:
   <amp-img width="600" height="300" layout="responsive" src="/assets/images/20170507/stackoverflow.png"></amp-img>
   Almost the same comments for GitHub and GitHub issues. Search for tags of your favourite library and try helping other developers. Mostly target for unanswered questions but you may have a better solution than someone else, so propose it there. My answer for a question around [Google Ads on Android](http://stackoverflow.com/questions/23337802/ad-size-and-ad-unit-id-must-be-set-before-loadad-is-called/23980933#23980933) got me few thousands of reputations and few dozen badges. The same for few Tensorflow questions, resulted in me being in top 5% of developers in Android and Tensorflow. <br>
   > **Pro tip 1:**  Stackoverflow also is a good source of ideas for creating libraries I mentioned in Github point, for finding pain in the ass of the developers and solving them.
+
   > **Pro tip 2:** After implementing your library, you can promote it by pasting some code-snippets and link to your library's repo, so you got more visitors.
 - **Personal Blog** <br>
   <amp-img width="600" height="60" layout="responsive" src="/assets/images/20170507/medium.png"></amp-img>
