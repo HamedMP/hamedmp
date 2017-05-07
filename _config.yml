@@ -12,7 +12,7 @@ description: >
   AI, Data Science and some Futiristic stuff
 logo: "/assets/images/logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hamedmp.github.io" # the base hostname & protocol for your site
+url: "http://hamedmp.com" # the base hostname & protocol for your site
 paginate: 10 # The number of posts to show per page on your homepage
 
 name: 'Hamed MP'
