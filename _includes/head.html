@@ -16,12 +16,7 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-  <!-- fb og -->
-  {% if page.header-img %}
-    <meta property="og:image" content="{{ site.url }}/{{ page.img }}" />
-  {% endif %}
-
-  <meta property="og:description" content="{{ page.subtitle }}" />
+  {% include social_metadata.html %}
 
   <script type="application/ld+json">
   {% include metadata.json %}
