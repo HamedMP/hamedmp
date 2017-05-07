@@ -28,7 +28,7 @@ Now I'll dig a bit each of them and what should you do for each one:
 - **CV** <br>
   I don't want to explain a lot here. Just keep it simple and minimal. There are tons of materials and templates out there. Just keep in mind to include your projects you have worked on, one line description for each one and how you helped that project, your skillset, and link to your blog, GitHub and StackOverflow.
 - **Github account** <br>
-  <amp-img width="600" height="80" layout="responsive" src="/assets/images/20170507/imageflow.png"></amp-img>
+  <amp-img width="600" height="60" layout="responsive" src="/assets/images/20170507/imageflow.png"></amp-img>
   This is the most important part in your portfolio and building a great GitHub account will take time, so be patient. <br>
   - Include any open source project you have or worked on. Translation: If you don't have any, start one :)
   - Build a library around the area you are working on. A library that you wish it was there or has better features than others. For example, I created [Imageflow](https://github.com/HamedMP/ImageFlow) a simple wrapper for reading images for [Tensorflow](https://tensorflow.org). Although currently in hibernate mode but I did it more than 1 year ago because reading images in Tensoflow really sucks and you can validate the problem by a number of stars in the GitHub repo.
